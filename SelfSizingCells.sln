@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfSizingCells", "SelfSizingCells\SelfSizingCells.csproj", "{AF2A72D2-A5E6-40BB-821A-5166FA26E524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Release|iPhone.Build.0 = Release|iPhone
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AF2A72D2-A5E6-40BB-821A-5166FA26E524}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SelfSizingCells\SelfSizingCells.csproj
+	EndGlobalSection
+EndGlobal
